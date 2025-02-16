@@ -4,6 +4,7 @@ This repository contains solutions to the **popular 300 problems** from the [CSE
 
 ## 📌 About CSES
 The **CSES Problem Set** is a collection of competitive programming problems hosted on [cses.fi](https://cses.fi/problemset/). It covers fundamental and advanced topics, making it a great resource for learning and practicing **data structures, algorithms, and problem-solving**.
+[Help](https://github.com/Jonathan-Uy/CSES-Solutions/tree/main)
 
 ## 📂 Problem Categories
 The CSES problem set is divided into multiple categories:
