@@ -164,6 +164,7 @@ void TwoSets(){
 }
 
 void BitStrings() {
+    // this can be done in log(n) time also
     long long n;
     cin >> n;
     long long mod = 1e9 + 7;
